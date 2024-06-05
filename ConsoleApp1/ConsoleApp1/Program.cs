@@ -10,7 +10,6 @@ class RationalLinearFunction
         this.a0 = a0;
         this.b1 = b1;
         this.b0 = b0;
-
     }
 
     public void DisplayCoefficients()
